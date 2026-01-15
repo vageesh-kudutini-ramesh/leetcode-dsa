@@ -9,6 +9,7 @@ organized by data structures and algorithmic patterns.
 ## Problems Solved
 - Two Sum
 - Best Time to Buy and Sell Stock
+- Contains Duplicate
 
 ## Goal
 - Build strong DSA fundamentals
