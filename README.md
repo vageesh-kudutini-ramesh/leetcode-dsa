@@ -10,6 +10,7 @@ This repository contains my LeetCode practice solutions,organized by data struct
 - Best Time to Buy and Sell Stock
 - Contains Duplicate
 - Maximum Subarray
+- Move Zeroes
 
 ## Goal
 - Build strong DSA fundamentals
